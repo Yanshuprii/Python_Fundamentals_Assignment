@@ -23,7 +23,7 @@ This is a basic command-line to-do list application written in Python. The app a
 - Testing of various processes
 - Rechecking by running the program
 - Error fixing
-#note: There are many errors which i could not recognise on my own.Hoping for a feedback on that
+# Note: There are many errors which i could not recognise on my own.Hoping for a feedback on that
 
 #The application is designed using a modular structure with separate files for managing tasks, utilities, and user interactions
 
