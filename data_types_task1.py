@@ -47,3 +47,4 @@ dictionary=[ #creating dictionary
 ]
 print(dictionary)
 
+Completed task 1-Data types!
