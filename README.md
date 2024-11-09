@@ -8,7 +8,7 @@ This is a basic command-line to-do list application written in Python. The app a
 - Delete a to-do item by its index.
 - Exit the application.
 
-#HOW to use this application
+#HOW to use this application:
 - First the user can enter the number of task they want to include in the beginning with the estimated time as well
 - Then the program gives user the option to choose between adding, deleting,viewing and exiting
 - After choosing one of the options the program works accordingly
