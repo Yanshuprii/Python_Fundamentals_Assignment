@@ -50,3 +50,5 @@ if choice == '3':
 if choice == '4':
   result=division(num1,num2)
   print(f"quotient= {result}")
+
+COMPLETED TASK 3- CALCULATOR
