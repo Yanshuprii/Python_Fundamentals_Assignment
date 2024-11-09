@@ -21,3 +21,5 @@ a=input("enter 'exit' to exit: ") #to store something in 'a' before running the 
 while a!="exit":
   classify_number() #calling the function
   a=input("enter 'exit' to exit") #here written twice because we need to show this statement in loop until user enters exit
+
+COMPLETED TASK 2- CONTROL STRUCTURES
